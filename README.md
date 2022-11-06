@@ -16,6 +16,14 @@ it's simple. an app to help you do your habits easily, without forgetting them! 
 
 * automatically localizated days to your language
 
+### technologies used:
+
+MVVM
+
+CRUD
+
+
+
 <p float="left">
 <img src="https://user-images.githubusercontent.com/48603868/200193380-256c11ac-1da0-48c5-81d7-49da53b12d50.png" width="320" height="568">
 
